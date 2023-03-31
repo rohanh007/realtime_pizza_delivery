@@ -1,0 +1,1 @@
+console.log("Larvel app are run properly");
